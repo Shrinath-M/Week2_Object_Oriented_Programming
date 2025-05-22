@@ -24,9 +24,9 @@ Welcome to the repository for **Week 2** of our Java learning journey. This week
 In **Week 2**, we explore the fundamental concepts of **Object-Oriented Programming (OOP)** in Java. These principles form the backbone of real-world Java development, enabling developers to write clean, reusable, and modular code. This week provides **hands-on exposure** to designing and implementing object-oriented systems using:
 
 - Classes
-- -Constructors
-- -Access modifiers
-- -object modeling
+- Constructors
+- Access modifiers
+- object modeling
 - Inheritance
 - Encapsulation
 

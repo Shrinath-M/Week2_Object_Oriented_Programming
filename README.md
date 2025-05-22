@@ -10,10 +10,10 @@ Welcome to the repository for **Week 2** of our Java learning journey. This week
 - [Topics Covered](#topics-covered)
   - [Day 1: Classes and Objects](#day-1-classes-and-objects)
   - [Day 2: Constructors and this Keyword](#day-2-constructors-and-this-keyword)
-  - [Day 3: Inheritance](#day-3-inheritance)
-  - [Day 4: Polymorphism](#day-4-polymorphism)
-  - [Day 5: Abstraction and Interfaces](#day-5-abstraction-and-interfaces)
-  - [Day 6: Access Modifiers, Static, and Final Keywords](#day-6-access-modifiers-static-and-final-keywords)
+  - [Day 3: Access Modifiers, Static, and Final Keywords](#day-3-access-modifiers-static-and-final-keywords)
+  - [Day 4: Object Modeling](#day-4-object-modeling)
+  - [Day 5: Inheritance](#day-5-inheritance)
+  - [Day 6: Encapsulation](#day-6-encapsulation)
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
 
@@ -24,9 +24,10 @@ Welcome to the repository for **Week 2** of our Java learning journey. This week
 In **Week 2**, we explore the fundamental concepts of **Object-Oriented Programming (OOP)** in Java. These principles form the backbone of real-world Java development, enabling developers to write clean, reusable, and modular code. This week provides **hands-on exposure** to designing and implementing object-oriented systems using:
 
 - Classes
+- -Constructors
+- -Access modifiers
+- -object modeling
 - Inheritance
-- Polymorphism
-- Abstraction
 - Encapsulation
 
 ---
@@ -52,7 +53,25 @@ In **Week 2**, we explore the fundamental concepts of **Object-Oriented Programm
 
 ---
 
-###  Day 3: Inheritance
+###  Day 3: Access modifiers, Static and Final keywords
+
+- Java access modifiers: `public`, `private`, `protected`, and default  
+- Static variables and methods  
+- Final variables, methods, and classes  
+- Use cases for `static` and `final` in application design 
+
+---
+
+###  Day 4: Object modeling
+
+- Identifying real-world entities as classes and objects
+- Defining class attributes (fields) and behaviors (methods)
+- Establishing relationships between objects (association, aggregation, composition)
+- Designing modular, reusable, and maintainable object-oriented systems
+
+---
+
+###  Day 5: Inheritance
 
 - Concept of inheritance and code reuse  
 - Using the `extends` keyword  
@@ -62,30 +81,12 @@ In **Week 2**, we explore the fundamental concepts of **Object-Oriented Programm
 
 ---
 
-###  Day 4: Polymorphism
+###  Day 6: Encapsulation
 
-- Compile-time polymorphism (method overloading)  
-- Runtime polymorphism (method overriding)  
-- Dynamic method dispatch  
-- Use of the `instanceof` operator  
-
----
-
-###  Day 5: Abstraction and Interfaces
-
-- Introduction to abstract classes and abstract methods  
-- Defining and implementing interfaces  
-- Multiple inheritance using interfaces  
-- Real-world examples demonstrating abstraction  
-
----
-
-###  Day 6: Access Modifiers, Static, and Final Keywords
-
-- Java access modifiers: `public`, `private`, `protected`, and default  
-- Static variables and methods  
-- Final variables, methods, and classes  
-- Use cases for `static` and `final` in application design  
+- Wrapping data (variables) and methods into a single unit (class)
+- Using access modifiers to restrict direct access to class members
+- Providing controlled access through getter and setter methods
+- Promoting data hiding and maintaining integrity of the object’s state
 
 ---
 
